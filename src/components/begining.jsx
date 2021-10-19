@@ -10,7 +10,7 @@ class Begining extends Component{
 
     render(){
         return(
-            <div>
+            <div className='main'>
                 <h1>In the begining</h1>
             </div>
         )
